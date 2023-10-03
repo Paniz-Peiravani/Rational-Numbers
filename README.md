@@ -35,10 +35,15 @@ https://github.com/Paniz-Peiravani/Rational-Numbers/blob/main/div_rational.asm
 
 To use these programs, follow these general steps:
 
-1. Load the desired program (e.g., `add_rational.asm`, `sub_rational.asm`, `mul_rational.asm`, or `div_rational.asm`) into your MIPS assembly simulator (e.g., MARS).
-2. Assemble the program to generate the machine code.
-3. Run the program.
-4. Follow the on-screen prompts to enter values for the rational numbers as instructed.
-5. The program will perform the corresponding arithmetic operation and display the result.
-6. If either denominator is zero, the program will display an error message:
+1. Load the desired program
+   - `add_rational.asm`
+   - `sub_rational.asm`
+   - `mul_rational.asm`, 
+   - `div_rational.asm`)
+into your MIPS assembly simulator (e.g., MARS).
+3. Assemble the program to generate the machine code.
+4. Run the program.
+5. Follow the on-screen prompts to enter values for the rational numbers as instructed.
+6. The program will perform the corresponding arithmetic operation and display the result.
+7. If either denominator is zero, the program will display an error message:
    - Error: Denominator cannot be ZERO!!!
