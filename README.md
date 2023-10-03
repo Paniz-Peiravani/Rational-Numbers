@@ -35,12 +35,11 @@ https://github.com/Paniz-Peiravani/Rational-Numbers/blob/main/div_rational.asm
 
 To use these programs, follow these general steps:
 
-1. Load the desired program
+1. Load the desired program into your MIPS assembly simulator (e.g., MARS).
    - `add_rational.asm`
    - `sub_rational.asm`
    - `mul_rational.asm`, 
    - `div_rational.asm` 
-<br /> into your MIPS assembly simulator (e.g., MARS).
 3. Assemble the program to generate the machine code.
 4. Run the program.
 5. Follow the on-screen prompts to enter values for the rational numbers as instructed.
