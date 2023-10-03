@@ -14,20 +14,22 @@ This repository contains MIPS assembly language code for performing arithmetic o
 ### Addition Program
 
 **add_rational.asm**: This program adds two rational numbers and displays the result. <br />
-
 https://github.com/Paniz-Peiravani/Rational-Numbers/blob/main/add_rational.asm
 
 ### Subtraction Program
 
-**sub_rational.asm**: This program subtracts two rational numbers and displays the result.
+**sub_rational.asm**: This program subtracts two rational numbers and displays the result. <br />
+https://github.com/Paniz-Peiravani/Rational-Numbers/blob/main/sub_rational.asm
 
 ### Multiplication Program
 
-**mul_rational.asm**: This program multiplies two rational numbers and displays the result.
+**mul_rational.asm**: This program multiplies two rational numbers and displays the result. <br />
+https://github.com/Paniz-Peiravani/Rational-Numbers/blob/main/mul_rational.asm
 
 ### Division Program
 
-**div_rational.asm**: This program divides two rational numbers and displays the result.
+**div_rational.asm**: This program divides two rational numbers and displays the result. <br />
+https://github.com/Paniz-Peiravani/Rational-Numbers/blob/main/div_rational.asm
 
 ## Usage Instructions
 
