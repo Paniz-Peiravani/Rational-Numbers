@@ -9,62 +9,34 @@ This repository contains MIPS assembly language code for performing arithmetic o
 - `mul_rational.asm`: Multiplies two rational numbers.
 - `div_rational.asm`: Divides two rational numbers.
 - 
-## Example Usage
+## Programs Included
 
-Here are example usages of each program:
+### Addition Program
 
-```assembly
+**add_rational.asm**: This program adds two rational numbers and displays the result.
 
-#~~~ Adding Rational Numbers ~~~#
+### Subtraction Program
 
-$ ./add_rational.asm
+**sub_rational.asm**: This program subtracts two rational numbers and displays the result.
 
-Enter rational(a, b): Enter a
-10
-Enter b
-5
-Enter rational(c, d): Enter c
-3
-Enter d
-2
+### Multiplication Program
 
-Result: rational(10, 5) + rational(3, 2) = rational(13, 10)
+**mul_rational.asm**: This program multiplies two rational numbers and displays the result.
 
-$ ./sub_rational.asm
+### Division Program
 
-Enter rational(a, b): Enter a
-5
-Enter b
-2
-Enter rational(c, d): Enter c
-3
-Enter d
-4
+**div_rational.asm**: This program divides two rational numbers and displays the result.
 
-Result: rational(5, 2) - rational(3, 4) = rational(7, 4)
+## Usage Instructions
 
-$ ./mul_rational.asm
+To use these programs, follow these general steps:
 
-Enter rational(a, b): Enter a
-1
-Enter b
-3
-Enter rational(c, d): Enter c
-2
-Enter d
-5
+1. Load the desired program (e.g., `add_rational.asm`, `sub_rational.asm`, `mul_rational.asm`, or `div_rational.asm`) into your MIPS assembly simulator (e.g., MARS).
+2. Assemble the program to generate the machine code.
+3. Run the program.
+4. Follow the on-screen prompts to enter values for the rational numbers as instructed.
+5. The program will perform the corresponding arithmetic operation and display the result.
+6. If either denominator is zero, the program will display an error message
 
-Result: rational(1, 3) * rational(2, 5) = rational(2, 15)
-
-$ ./div_rational.asm
-
-Enter rational(a, b): Enter a
-2
-Enter b
-5
-Enter rational(c, d): Enter c
-7
-Enter d
-0
 
 Error: Denominator cannot be ZERO!!!
