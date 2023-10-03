@@ -36,5 +36,4 @@ To use these programs, follow these general steps:
 3. Run the program.
 4. Follow the on-screen prompts to enter values for the rational numbers as instructed.
 5. The program will perform the corresponding arithmetic operation and display the result.
-6. If either denominator is zero, the program will display an error message
-Error: Denominator cannot be ZERO!!!
+6. If either denominator is zero, the program will display an error message: Error: Denominator cannot be ZERO!!!
