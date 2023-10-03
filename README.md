@@ -39,8 +39,8 @@ To use these programs, follow these general steps:
    - `add_rational.asm`
    - `sub_rational.asm`
    - `mul_rational.asm`, 
-   - `div_rational.asm` <br />
-into your MIPS assembly simulator (e.g., MARS).
+   - `div_rational.asm` 
+<br /> into your MIPS assembly simulator (e.g., MARS).
 3. Assemble the program to generate the machine code.
 4. Run the program.
 5. Follow the on-screen prompts to enter values for the rational numbers as instructed.
