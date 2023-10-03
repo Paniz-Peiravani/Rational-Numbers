@@ -13,9 +13,10 @@ This repository contains MIPS assembly language code for performing arithmetic o
 
 Here are example usages of each program:
 
-## Adding Rational Numbers
-
 ```assembly
+
+#~~~ Adding Rational Numbers ~~~#
+
 $ ./add_rational.asm
 
 Enter rational(a, b): Enter a
