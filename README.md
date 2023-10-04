@@ -11,7 +11,7 @@ This repository contains MIPS assembly language code for performing arithmetic o
 - 
 ## Programs Included
 
-### Addition Program
+### Addition Program 
 
 **add_rational.asm**: This program adds two rational numbers and displays the result. <br />
 https://github.com/Paniz-Peiravani/Rational-Numbers/blob/main/add_rational.asm
